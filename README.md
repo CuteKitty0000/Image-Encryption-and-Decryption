@@ -6,7 +6,7 @@ This Python script allows you to encrypt and decrypt images using a simple encry
 
 <div style="display:flex">
   <img src="https://github.com/CuteKitty0000/PRODIGY_CS_02/assets/144705877/f0f15326-6345-480b-b334-f7dd91f67ce0" alt="decrypted_image" width="400"/>
-  <img src="https://github.com/CuteKitty0000/PRODIGY_CS_02/assets/144705877/ea632872-68a1-4182-864d-42ba8522586c" alt="encrypted_image" width="400"/>
+  <img src="https://github.com/CuteKitty0000/PRODIGY_CS_02/assets/144705877/fac92392-8aa5-4158-967f-443a82186c5b" alt="encrypted_image" width="400"/>
 </div>
 
 ## Features
